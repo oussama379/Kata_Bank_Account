@@ -9,7 +9,7 @@ Creating an ideal bank account experience
 - Create a user account
 - Login
 - Create bank accounts
-- Deposit and Whidraw from your accounts
+- Deposit and Withdraw from your accounts
 - Print your account statement (operation type, date, amount, balance)
 - Print your account information (account number, creation date, balance)
 
