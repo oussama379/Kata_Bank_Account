@@ -1,4 +1,4 @@
-# Bank Kata 
+# Bank Account Kata 
 
 ## Project description : 
 
