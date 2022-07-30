@@ -1,10 +1,10 @@
-Bank Kata 
+# Bank Kata 
 
-Project description : 
+## Project description : 
 
 Creating an ideal bank account experience 
 
-Features : 
+## Features : 
 
 - Create a user account
 - Login
@@ -13,7 +13,7 @@ Features :
 - Print your account statement (operation type, date, amount, balance)
 - Print your account information (account number, creation date, balance)
 
-Set-Up : 
+## Set-Up : 
 
  1- Clone the repository
  
