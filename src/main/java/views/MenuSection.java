@@ -22,7 +22,7 @@ public class MenuSection {
             System.out.println("* --------------------------*");
             System.out.println("1- Create a bank account");
             System.out.println("2- Make a deposit or a withdrawal");
-            System.out.println("3- See your account statements");
+            System.out.println("3- See your account statement");
             System.out.println("4- See your accounts");
             System.out.println("0- Exit");
             System.out.println("* --------------------------*");
